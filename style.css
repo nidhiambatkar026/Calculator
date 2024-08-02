@@ -1,0 +1,8 @@
+.background_box{
+    background-color: #3D3D5C;
+    height: 650px;
+    width: 500px;
+    justify-content: center;
+    margin: 40px auto;
+    border-radius: 20px;
+}
